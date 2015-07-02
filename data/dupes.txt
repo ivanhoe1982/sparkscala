@@ -1,0 +1,10 @@
+99999990	Park Hotel Granica	Park Hotel Granica		50.114	19.87	S	HTL	PL		77	1206	120615		0	0	271	Europe/Warsaw	2015-06-12
+99999991	Hotel Exspress Holiday Inn	Hotel Exspress Holiday Inn		50.0887	19.91342	S	HTL	PL		77	1261	126101		0	0	240	Europe/Warsaw	2015-06-12
+99999992	Kyriad Prestige Varsovie Warszawa	Kyriad Prestige Varsovie Warszawa		52.22836	20.98585	S	HTL	PL		78	1465	146501		0	0	99	Europe/Warsaw	2015-06-12
+99999993	Gromada Warszawa Airport Okecie	Gromada Warszawa Airport Okecie		52.18003	20.97932	S	HTL	PL		78	1465	146501		0	0	87	Europe/Warsaw	2015-06-12
+99999994	Dipservice	Dipservice		52.17124	21.0729	S	HTL	PL		78	1465	146501		0	0	77	Europe/Warsaw	2015-06-12
+99999995	Seroki Wie?	Seroki Wies	Seroki,Seroki Wies,Seroki-Wies,Seroki-Wie?	52.20366	20.44736	P	PPL	PL		78	1428	142808		0		77	Europe/Warsaw	2015-06-15
+99999996	Sound Garden Hotel Airport	Sound Garden Hotel Airport		52.19046	20.98223	S	HTL	PL		78	1465	146501		0	0	89	Europe/Warsaw	2015-06-16
+99999997	Sanktuarium ?w. Walentego	Sanktuarium sw. Walentego		50.08937	19.0939	S	CH	PL		83	2414	241401		0		260	Europe/Warsaw	2015-06-16
+99999998	Bieniec	Bieniec		51.27749	15.39567	P	PPL	PL		72	0201	020104		0		191	Europe/Warsaw	2015-06-24
+99999999	G?dki	Gadki		52.31202	17.04696	P	PPL	PL		86	3021	302109		529		68	Europe/Warsaw	2015-06-27
